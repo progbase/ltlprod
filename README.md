@@ -1,9 +1,9 @@
-#LeaveTheLost
+# **LeaveTheLost**
 
-*Members:
-	*Vasilets Danil
-	*Kim Daniil
-	*Kubrak Serhiy
-	*Lyn Dmytro
-	*Nguyễn vinh hiển
-	*Vinogradova Anastasiya
+## **Members:**
+	- Vasilets Danil
+	- Kim Daniil
+	- Kubrak Serhiy
+	- Lyn Dmytro
+	- Nguyễn vinh hiển
+	- Vinogradova Anastasiya
