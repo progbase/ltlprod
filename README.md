@@ -1,12 +1,12 @@
 # **LeaveTheLost**
 ## *Multi-axis camera slider*
 ## **Members:**
-	- [Team lead]:Vasilets Danil
+	- [Product Owner]:Vasilets Danil
 	- [Scrum master]:Kim Daniil
 	- [Tech lead]:Nguyễn vinh hiển
 	- [QA lead]:Kubrak Serhiy
 	- [Programmer]:Lyn Dmytro
-	- [Tester]:Vinogradova Anastasiya
+	- [QA]:Vinogradova Anastasiya
 [GitHub team](https://github.com/orgs/progbase/teams/leavethelost)\
 [Project](https://github.com/orgs/progbase/projects/12)\
 [Details list](https://docs.google.com/spreadsheets/d/1x6WkJ70cTf8AzJlxv-nY2wdNbWJwwWpdfcx_6Czx7NU/edit?usp=sharing)\
