@@ -3,7 +3,7 @@
 ## **Members:**
 	- [Product Owner]:Vasilets Danil
 	- [Scrum master]:Kim Daniil
-	- [Tech lead]:Nguyễn vinh hiển
+	- [Tech lead]:Nguyễn Vin Hiên
 	- [QA lead]:Kubrak Serhiy
 	- [Programmer]:Lyn Dmytro
 	- [QA]:Vinogradova Anastasiya
