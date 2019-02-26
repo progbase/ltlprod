@@ -1,5 +1,5 @@
 1. Sprint goal:
-  Make the prototype of final product. With ability to move left-right on rail system and up and down using a platform on a scissor-like mechanism. Make the prototype bluetooth campatible and controllable via phone application. Adjust movement speed and stability of multiple inputs.
+  Make the prototype of final product with ability to move horizontally and vertically via phone application
   
 2. Sprint participants and their availability:
 	- [Product Owner]:Vasilets Danil (12 days)
