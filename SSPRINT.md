@@ -1,7 +1,7 @@
 1. Sprint goal:\
   Complete first sprint goal and add camera rotation using additional servo motors.
 
-2. Sprint participants and their availability:\
+2. Sprint participants and their availability:
 
   -[Product Owner]:Vasilets Danil (10 days)\
   -[Scrum master]:Kim Daniil (11 days)\
