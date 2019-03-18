@@ -3,12 +3,12 @@
 
 2. Sprint participants and their availability:
 
-  -[Product Owner]:Vasilets Danil (10 days)
-  -[Scrum master]:Kim Daniil (11 days)
-  -[Tech lead]:Nguyễn Vin Hiên (10 days)
-  -[QA lead]:Kubrak Serhiy (8 days)
-  -[Programmer]:Lyn Dmytro (345678987654 days)
-  -[QA]:Vinogradova Anastasiya (34567876 days)
+  -[Product Owner]:Vasilets Danil (10 days)\
+  -[Scrum master]:Kim Daniil (11 days)\
+  -[Tech lead]:Nguyễn Vin Hiên (10 days)\
+  -[QA lead]:Kubrak Serhiy (8 days)\
+  -[Programmer]:Lyn Dmytro (345678987654 days)\
+  -[QA]:Vinogradova Anastasiya (34567876 days)\
 
 3. [Sprint Backlog](ssilka)
 
