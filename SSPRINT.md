@@ -1,7 +1,7 @@
-1. Sprint goal:
+1. Sprint goal:\
   Complete first sprint goal and add camera rotation using additional servo motors.
 
-2. Sprint participants and their availability:
+2. Sprint participants and their availability:\
 
   -[Product Owner]:Vasilets Danil (10 days)\
   -[Scrum master]:Kim Daniil (11 days)\
@@ -14,7 +14,7 @@
 
 4. Sprint demonstration on 02.04.2019 10:25 76-14 classroom
 
-5. Daily scram meeting: 
+5. Daily scram meeting:\
 -Mon: KPI library 16:00 - 17:00\
 -Tue: KPI library 14:00 - 15:00\
 -Wed: KPI library 14:15 - 15:15\
