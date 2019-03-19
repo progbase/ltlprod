@@ -12,7 +12,7 @@
 
 3. [Sprint Backlog](https://docs.google.com/spreadsheets/d/1rONpBXQ2QpMnmUBTFo0WdV9m6uC_ri_pWJd_mGgPSZk/edit?usp=sharing)
 
-4. Sprint demonstration on 02.04.2019 10:25 76-14 classroom
+4. Sprint demonstration on 09.04.2019 10:25 76-14 classroom
 
 5. Daily scram meeting:\
 -Mon: KPI library 16:00 - 17:00\
